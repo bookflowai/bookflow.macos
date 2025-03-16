@@ -10,7 +10,7 @@ BookFlowAI allows you to:
 - Generate concise summaries and tailored exercises for each chapter using the Gemini AI model.
 - Visualize pages as thumbnails and interact with the content seamlessly.
 
-This project is part of a broader vision to create a community-driven language learning tool, with plans to integrate a meme coin (BookFlowAI Coin) to fund further development.
+This project is part of a broader vision to create a community-driven language learning tool.
 
 ## Features
 
