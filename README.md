@@ -73,7 +73,6 @@ I'm a solo dev grinding after my 9-5 job, so any help is welcome! Feel free to:
 
 This app is my passion project to help myself and others learn languages (starting with my struggle with Spanish!). To keep it growing:
 - Donate SOL to my wallet: `5cumoZBh4g5arW5x5i5fioFkfFWPA8GxHwZsX6AwRyQH`.
-- Stay tuned for the BookFlowAI Coin launch on Pump.fun, which will fund further development and give holders a voice in the app's future.
 
 ## License
 
