@@ -8,7 +8,7 @@ import SwiftUI
 struct bookflowaiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView(viewModel: PDFLoaderViewModel())
         }
     }
 }
